@@ -26,7 +26,7 @@ matbloggspriset-dashboard-widget-wp
 
 ### Skärmdumpar ##
 
-![image](http://)
+![image](https://raw.githubusercontent.com/matbloggspriset/matbloggspriset-dashboard-feeds-wp/master/screenshot.png)
 
 
 ## Changelog ##
