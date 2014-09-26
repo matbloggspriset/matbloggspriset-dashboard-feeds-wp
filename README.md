@@ -1,14 +1,12 @@
 matbloggspriset-dashboard-widget-wp
 ===================================
-
-# Make Matbloggspriset Dashboard News Widget WP #
  
 **Make Matbloggspriset** är en samling verktyg, resurser, teman och plugins för [Matbloggspriset.se](http://matbloggspriset.se)
 
 
 ## Vad gör denna plugin ##
 
-**Matbloggspriset Dashboard News Widget** är en väldigt enkel panel-widget för WordPress. Den visar de senaste nyheterna från [Matbloggspriset.se](http://matbloggspriset.se)
+**Matbloggspriset Dashboard News Widget** är en väldigt enkel panel-widget för [WordPress](https://www.wordpress.org). Den visar de senaste nyheterna från [Matbloggspriset.se](http://matbloggspriset.se)
 
 
 ## Installation ##
@@ -21,7 +19,9 @@ matbloggspriset-dashboard-widget-wp
 6. Du kan nu se de senaste nyheterna från Matbloggspriset genom att klicka på “Panel” i admin-menyn.
 
 ## Om du får problem ##
-Lägg till en “Issue“ på Github, eller [skicka ett mejl till Christopher Anderton](mailto:christopher@deluxive.se). Notera att vi ej kan ge support på denna plugin. 
+- Lägg till en “Issue“ på Github, eller [skicka ett mejl till Christopher Anderton](mailto:christopher@deluxive.se). Notera att vi ej kan ge support på denna plugin. 
+- Testat på WordPress 3.6 samt WordPress 4.1 (alpha).
+
 
 
 ### Skärmdumpar ##
