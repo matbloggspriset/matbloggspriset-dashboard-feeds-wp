@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Matbloggspriset Dashboard Feeds\n"
+"POT-Creation-Date: 2014-09-26 21:28+0100\n"
+"PO-Revision-Date: 2014-09-26 21:28+0100\n"
+"Last-Translator: Christopher Anderton <christopher@deluxive.se>\n"
+"Language-Team: Christopher Anderton <christopher@deluxive.se>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: matbloggspriset-dashboard-feeds.php:36
+msgid "Nyheter från Matbloggspriset"
+msgstr "News from The Swedish Food Blog Awards"
+
+#: matbloggspriset-dashboard-feeds.php:43
+msgid "Visar nyheter från Matbloggspriset i din WordPress-Panel"
+msgstr ""
+"Shows the latest news from The Swedish Food Blog Awards in your Dashboard"
+
+#: matbloggspriset-dashboard-feeds.php:49
+msgid ""
+"Visar senaste nytt från <a target=_blank\" href=\"http://matbloggspriset.se"
+"\">matbloggspriset.se</a> i din WordPress-Panel"
+msgstr ""
+"Shows the latest news from The Swedish Food Blog Awards at <a target=_blank"
+"\" href=\"http://matbloggspriset.se\">Matbloggspriset.se</a> in your "
+"Dashboard"
+
+#~ msgid "Visar Matbloggsprisets RSS-flöde i din Dashboard"
+#~ msgstr "Shows the RSS feed from Matbloggspriset in your dashboard"
